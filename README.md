@@ -27,8 +27,10 @@
 (Я не художник, поэтому заранее прошу прощения за такие каракули)
 
 ![Screenshot from 2022-07-01 22-41-23](https://user-images.githubusercontent.com/55214057/176994505-b7cd9072-df6d-46e0-9df0-be240f3f9f88.png)
-
-и еще срисовал контуры туфли из датасета, вот что вышло
-
 ![Screenshot from 2022-07-02 12-28-00](https://user-images.githubusercontent.com/55214057/176994891-df244601-8bff-4872-9c5f-d9c6747d973f.png)
+![Screenshot from 2022-07-02 12-38-56](https://user-images.githubusercontent.com/55214057/176995228-29a6ab48-eaa7-4fe7-891c-0af0ae052c72.png)
 
+Следующие примеры контуров взяты из гугла:
+
+![Screenshot from 2022-07-02 12-47-32](https://user-images.githubusercontent.com/55214057/176995459-67978537-ad50-4854-b5d7-8e6139702753.png)
+![Screenshot from 2022-07-02 12-51-35](https://user-images.githubusercontent.com/55214057/176995577-9ecd8dd0-74a9-4c86-952c-2e42466e9874.png)
