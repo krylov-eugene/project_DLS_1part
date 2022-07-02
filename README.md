@@ -1,7 +1,7 @@
 # Общая информация
 **В данном проекте я произвожу генерацию обуви из её очертаний**
 
-Полный код проекта расположен в файле [handbagGAN.ipynb](https://github.com/kudaxech/project_DLS_1part/blob/main/handbagGAN.ipynb)\
+Полный код проекта расположен в файле [shoesGAN.ipynb](https://github.com/kudaxech/project_DLS_1part/blob/main/shoesGAN.ipynb)\
 Код для самостоятельной генерации расположен в [selfGen.ipynb](https://github.com/kudaxech/project_DLS_1part/blob/main/selfGen.ipynb)\
 Ссылки на веса модели расположены в папке [weights_links](https://github.com/kudaxech/project_DLS_1part/blob/main/weights_links)
 
@@ -13,7 +13,7 @@
 Все ячейки, которые откуда-то заимствовались, сопровождаются ссылками на источники. Заимствовались: загрузка датасета с помощью tensorflow; код, позволяющий рисовать и сохранять изображения в googlecolab; код конвертации RGBA в RGB. Весь остальной код написан самостоятельно.
 
 ----------
-Код тренировки модели приведен в файле [handbagGAN.ipynb](https://github.com/kudaxech/project_DLS_1part/blob/main/handbagGAN.ipynb), в разделе "Создание модели и обучение". 
+Код тренировки модели приведен в файле [shoesGAN.ipynb](https://github.com/kudaxech/project_DLS_1part/blob/main/shoesGAN.ipynb), в разделе "Создание модели и обучение". 
 
 # Генерация изображений
 Сгенерировать изображения самостоятельно можно, используя скрипт [selfGen.ipynb](https://github.com/kudaxech/project_DLS_1part/blob/main/selfGen.ipynb).
